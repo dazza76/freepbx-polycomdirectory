@@ -1,0 +1,14 @@
+<module> 
+<rawname>polycomdirectory</rawname> 
+<name>Polycom Directory</name> 
+<version>1.0</version> 
+<type>Connectivity</type> 
+<category>Connectivity</category>
+        <description>
+		Allows configuration of polycom handsets directory files
+        </description>
+ 
+<menuitems> 
+<polycomdirectory>Polycom Directory</polycomdirectory> 
+</menuitems> 
+</module> 
